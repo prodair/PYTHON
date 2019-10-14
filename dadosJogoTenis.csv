@@ -1,4 +1,4 @@
-tempo,temperatura,humidade,vento,joga
+tempo,temperatura,umidade,vento,joga
 ensolarado,quente,alta,falso,nao
 ensolarado,quente,alta,verdadeiro,nao
 nublado,quente,alta,falso,sim
